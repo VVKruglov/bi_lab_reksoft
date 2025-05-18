@@ -1,0 +1,4 @@
+# игнорирование файлов  с форматом .md в папке “Interests”
+Interests/*.md
+# игнорирование файлов .md в  папке Check
+Interests/Check/*.md
